@@ -52,4 +52,5 @@ approximation of the Chebyshev table against the Legendre polynomial table. The 
 follows with the weight pairs:
 
 ![](http://upload.wikimedia.org/math/5/1/8/518d176892c2edaa19236135029bd39b.png "Set Pair")
+
 ![](http://upload.wikimedia.org/math/0/c/9/0c91407b3f3801c08124305d8655b085.png "Weight Pair")
