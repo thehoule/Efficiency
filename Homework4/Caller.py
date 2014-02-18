@@ -5,7 +5,6 @@ import largest_factorial
 import pi_approximation
 import chudnovsky_method
 
-
 # Absolute and relative errors using
 # Stirling's approximation
 stirlings_approx.approximate()
