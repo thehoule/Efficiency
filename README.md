@@ -10,7 +10,7 @@ Constant Interpolant:
 This rule approximates the integral by using the midpoints of the integral itself. It does this by using a
 rectangle at the midpoint of the integral and then dividing them up into smaller, easier approximating
 rectangles to come to a close and more accurate approximation. The step sizes to test the approximation
-!(http://turing.une.edu.au/~amth247/Lectures_2003/Lecture_17/lecture/img22.gif "Composite Midpoint Rule")  
+![](http://turing.une.edu.au/~amth247/Lectures_2003/Lecture_17/lecture/img22.gif "Composite Midpoint Rule")  
 
 
 
