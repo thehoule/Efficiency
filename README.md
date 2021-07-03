@@ -33,8 +33,6 @@ with curvature. With it’s efficiency it is also quite accurate as well. The eq
 Use Gaussian Methods:
 ---------------------
 
-###Gaussian Quadrature:
-
 ![](http://upload.wikimedia.org/math/1/b/a/1ba3e9e642523eb58f98f00539aafd60.png "Gaussian Quadrature")
 
 ### Legendre Polynomial Table:
